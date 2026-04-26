@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download WHOP Videos for Free (Chrome Extension Method)
 
+<a href="https://www.youtube.com/watch?v=g7aEw_aHnoM" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/youtube-thumbnail-g7aEw_aHnoM.jpg" width="700px">
+</a>
+
 
 Whop Video Downloader is a browser extension for saving authorized Whop course and member-only videos from pages you can access.
 
@@ -29,9 +33,7 @@ Whop Video Downloader scans supported Whop pages and lists detected videos and p
 
 Verified repository:
 
-```text
-https://github.com/serpapps/whop-video-downloader
-```
+[serpapps/whop-video-downloader](https://github.com/serpapps/whop-video-downloader)
 
 ## Before You Start
 
