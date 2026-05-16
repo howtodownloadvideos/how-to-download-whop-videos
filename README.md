@@ -1,130 +1,167 @@
 ---
-title: "How to Download WHOP Videos for Free (Chrome Extension Method)"
-description: "Set up Whop Video Downloader, verify your email, scan Whop course pages, and save authorized videos with the Chrome extension method."
+title: "How to Download Whop Videos using the Whop Video Downloader Browser Extension"
+description: "Learn how to download Whop videos using the Whop Video Downloader browser extension, including setup, video detection, and authorized offline saving."
 slug: "how-to-download-whop-videos"
 primary_keyword: "Whop Video Downloader"
 secondary_keywords:
   - "download Whop videos"
-  - "Whop course downloader"
-  - "whop-downloader-chrome.zip"
-  - "Whop Chrome extension"
+  - "Whop video downloader"
+  - "Whop browser extension"
+  - "save Whop videos offline"
 source_video: "https://www.youtube.com/watch?v=g7aEw_aHnoM"
-date: "2026-04-26"
+date: "2026-05-01"
 author: "Devin"
 tags: ["guides", "browser extensions", "video downloads"]
 ---
 
-# How to Download WHOP Videos for Free (Chrome Extension Method)
+# How to Download Whop Videos using the Whop Video Downloader Browser Extension
 
-<a href="https://www.youtube.com/watch?v=g7aEw_aHnoM" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/youtube-thumbnail-g7aEw_aHnoM.jpg" width="700px">
-</a>
+> Browser extension that lets you download Whop videos, images, and text posts directly to your computer — detects every piece of downloadable content on the page and organizes it by type, no extra software required.
 
+SERP Whop Downloader is a browser extension built specifically for saving content from Whop — videos, images, and text posts — as standard files you can keep.
 
-Whop Video Downloader is a browser extension for saving authorized Whop course and member-only videos from pages you can access.
+- Save course videos, images, and text posts from any Whop page for offline viewing and study
+- Download all visible content from a course or lesson page in one click with "Download Visible" bulk action
+- Skip generic tools that fail on Whop's layered page structure — this extension finds content other tools miss entirely
+- In-page overlay buttons appear directly on video players so you can save without opening a popup
 
-This guide follows the Chrome extension method shown in the video.
+If you have purchased a course or joined a community on Whop and want to keep the content on your device, this extension handles it all directly in your browser.
 
-> Only download Whop videos you own, have permission to save, or are legally allowed to use offline.
+## Links
 
-## What Is Whop Video Downloader?
+- 🚀 Get it here: [Whop Downloader](https://serp.ly/whop-video-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🪲 Report bugs: [GitHub Issues](https://github.com/serpapps/whop-video-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/whop-video-downloader/discussions)
 
-Whop Video Downloader scans supported Whop pages and lists detected videos and page resources in the extension panel.
+## Why Whop Downloader
 
-Verified repository:
+Whop streams course videos in a format that blocks right-click saving, and there is no built-in export for the images or text posts on the platform. Buying a course does not mean you can easily keep the files. Generic browser extensions fail because Whop nests its media inside deeply layered page structures that standard tools cannot reach. They miss videos, skip images, and ignore text content entirely.
 
-[serpapps/whop-video-downloader](https://github.com/serpapps/whop-video-downloader)
+SERP Whop Downloader was purpose-built for Whop. It understands the platform's page structure, finds content that other tools overlook, and handles video, image, and text downloads from a single extension — no desktop software and no command line.
 
-## Before You Start
+## Features
 
-You will need:
+- **Video downloads** — Detects Whop-hosted course and lesson videos and saves them as standard MP4 files
+- **Image downloads** — Finds images embedded in posts, lessons, and community pages in their original format
+- **Text post export** — Saves text-based lesson content and community posts as readable .txt files with metadata
+- **Bulk download** — "Download Visible" grabs all detected items in the active tab with one click
+- **In-page overlay buttons** — Download buttons appear directly on video players so you can save without opening the popup
+- **Download queue** — Handles up to 3 simultaneous downloads with real-time progress tracking
+- **Tabbed popup** — Videos, Images, and Text organized in separate tabs with asset counts and previews
+- **Cross-browser support** — Works on Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox
 
-- Google Chrome.
-- Access to the Whop course or page containing the video.
-- The release asset `whop-downloader-chrome.zip`.
-- An email address for one-time verification.
+## How It Works
 
-## Step 1: Find the Repository
+1. **Install** — Add SERP Whop Downloader to your browser from the [product page](https://serp.ly/whop-video-downloader), or download the latest version from [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest) and load it manually
+2. **Open your Whop content** — Head to Whop and navigate to any course, lesson, or community post you want to save
+3. **Let it detect everything** — Click the extension icon. The popup scans the page and shows all found videos, images, and text posts sorted into tabs.
+4. **Save what you need** — Download items individually, use the overlay button on a video player, or hit "Download Visible" to save everything in the active tab at once
 
-Search Google for:
+## Supported Formats
 
-```text
-serpapps whop downloader
-```
+- **Video:** MP4 (standard format, plays everywhere)
+- **Images:** Original format preserved (JPG, PNG, WebP, and others)
+- **Text:** Plain .txt files with post metadata
+- **Quality:** Highest available from the source
 
-Open the GitHub repository for `serpapps/whop-video-downloader`.
+## Step-by-Step Tutorial: How to Download Videos From Whop
 
-## Step 2: Download the Chrome ZIP
+Downloading from Whop is tricky because the platform streams video in a way that blocks normal saving, and media is embedded inside layered page components. This Whop course downloader Chrome extension handles all of that automatically. Here is how to get started.
 
-Open **Releases** and choose the latest release.
+**What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — an internet connection, and a Whop account with purchased content.
 
-For Chrome, download:
+**Step 1 — Install the extension.** Visit the extension store for your browser and add SERP Whop Downloader. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/whop-video-downloader/releases/latest) and load it manually in your browser's extension settings. The icon appears in your toolbar once installed.
 
-```text
-whop-downloader-chrome.zip
-```
+**Step 2 — Sign in.** Click the extension icon and enter your email. You will receive a one-time verification code — enter it to activate your 3 free trial downloads. No credit card required.
 
-Other verified assets include `whop-downloader-edge.zip` and `whop-downloader-brave.zip`.
+**Step 3 — Open your content on Whop.** Navigate to the course, lesson, or community post you want to save. For videos, press play at least once so the video stream becomes available to the extension.
 
-## Step 3: Extract the ZIP File
+**Step 4 — Download.** Click the extension icon to open the popup. Switch between the Videos, Images, and Text tabs to see what was found. Download items one at a time, use the overlay button on the video player, or click "Download Visible" to save Whop videos offline in bulk. Videos are converted to MP4 automatically.
 
-Extract the ZIP file after it downloads. You will load the extracted folder into Chrome.
+**Tips:** After scrolling to load more content, click Rescan to pick up new items. Use Shift+Click on Rescan for a full page refresh. The download queue processes up to 3 files at the same time, so bulk downloads finish quickly.
 
-## Step 4: Open Chrome Extensions
+**Troubleshooting:** If a video is not detected, press play on it first, then click Rescan. Make sure the extension is enabled and you are on a Whop page. Check that your browser is up to date for best compatibility.
 
-Go to:
+## Who It's For
 
-```text
-chrome://extensions
-```
+- **Course buyers** who want to save purchased Whop lessons for offline study
+- **Community members** who need to revisit video and image posts without an internet connection
+- **Content creators** looking to archive their own Whop-hosted material
+- **Non-technical users** who want a simple, browser-based solution without extra software or scripts
 
-Enable **Developer mode**.
+## Common Use Cases
 
-## Step 5: Load and Pin the Extension
+- Save course videos from Whop for offline viewing on any device
+- Download images from Whop posts and lessons for personal reference
+- Export text-based lesson notes as files for study or review
+- Bulk download all visible content from a Whop course page in one click
+- Use in-page overlay buttons for quick, one-click saves while browsing
+- Archive purchased content as a personal backup
 
-Click **Load unpacked** and choose the extracted folder from `whop-downloader-chrome.zip`.
+## What Makes Whop Downloader Different
 
-Pin Whop Video Downloader from the Chrome extensions menu.
+Most download extensions only look for basic video links on a page. Whop Downloader goes further:
 
-## Step 6: Verify Your Email
+- **Multi-content detection** — Videos, images, and text posts are all found and organized automatically. You do not need a separate tool for each content type.
+- **Built for Whop's page structure** — Finds media buried inside nested page components that generic tools cannot access.
+- **In-page overlay buttons** — Download directly from the video player without opening any popup or menu.
+- **Concurrent download queue** — Multiple files download at the same time instead of one by one.
+- **No extra software** — Everything runs in your browser. No desktop apps, no command-line tools, no technical setup.
+- **Free trial** — 3 downloads included with no credit card required, so you can verify it works before committing
 
-Open the extension, enter your email address, send the verification code, and paste the code into the extension.
+## Trial & Pricing
 
-After verification, the extension panel will be ready to scan supported pages.
+3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/whop-video-downloader).
 
-## Step 7: Open a Whop Course Page
-
-Navigate to the Whop course page or member page where the video is embedded.
-
-Open the extension. It will scan the page and show detected resources such as videos and images.
-
-## Step 8: Choose the Video and Download
-
-Select the detected video entry and click the download button.
-
-In the walkthrough, the video downloads quickly and saves to the browser's normal download location.
-
-## Troubleshooting Tips
-
-- Refresh the Whop course page after verification.
-- Click play if a video does not appear immediately.
-- Select the video resource instead of images or other page assets.
-- Confirm the Chrome ZIP is `whop-downloader-chrome.zip`.
+- Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- Secure one-time-passcode sign-in — no passwords stored
+- All processing happens locally in your browser
+- Automatic update notifications for new versions
 
 ## FAQ
 
-### Why does the extension show images too?
+### Q: How do I download a video from Whop?
 
-The extension scans page resources. Choose the video entry when saving a video.
+Go to any page on Whop that contains video content. Click the extension icon, switch to the Videos tab, and click Download on any video. You can also use the overlay button that appears directly on the video player.
 
-### Does the file save automatically?
+### Q: Can I download images and text too?
 
-It follows your browser settings. Chrome may save automatically or ask you where to save.
+Yes. The extension detects videos, images, and text posts. Use the tabs in the popup to switch between content types and download what you need.
 
-### Can I use it on multiple Whop pages?
+### Q: What about streaming videos on Whop?
 
-Yes. Open each page, scan with the extension, and download the detected video you are authorized to save.
+The extension automatically detects streaming video players and converts them to standard MP4 files saved to your computer.
 
-## Final Thoughts
+### Q: Can I download everything at once?
 
-Install `whop-downloader-chrome.zip`, verify your email, open a Whop course page, select the detected video, and click download.
+Yes. Click "Download Visible" to start downloading all detected items in the active tab — Videos, Images, or Text.
+
+### Q: Where are my downloads saved?
+
+Files save to your browser's default Downloads directory.
+
+### Q: How many free downloads do I get?
+
+You get 3 free trial downloads after signing in with your email. After that, purchase a license for unlimited downloads.
+
+### Q: Does this work on Firefox?
+
+Yes — supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
+
+### Q: Why isn't the extension finding my content?
+
+Make sure you are on a Whop page with visible content. Click Rescan in the popup to re-detect. For videos, press play first so the stream becomes available.
+
+### Q: Is my data safe?
+
+Yes. All processing happens entirely in your browser. Authentication uses a secure one-time code — no passwords stored.
+
+## Watch the Video
+
+[![how to download whop videos for free step by step guide to downloading videos from whopcom](https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-whop-videos-for-free-step-by-step-guide-to-downloading-videos-from-whopcom.jpg)](https://www.youtube.com/watch?v=g7aEw_aHnoM)
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
